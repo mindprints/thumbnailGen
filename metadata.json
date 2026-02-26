@@ -1,0 +1,5 @@
+{
+  "name": "Event Thumbnail Generator",
+  "description": "Generate bespoke thumbnails for booking events using Gemini 2.5 Flash Image.",
+  "requestFramePermissions": []
+}
